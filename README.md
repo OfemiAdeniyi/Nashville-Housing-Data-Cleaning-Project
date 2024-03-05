@@ -10,4 +10,4 @@ In this project, I performed data cleanig opertations on the NashVille Housing D
 I Standadize the date format,
 Populated empty colunms,
 Spilted Multiple Data in a single column into different colunms and aslo
-removed Duplicate and Deleted unused colunms
+removed Duplicate and Deleted unused colunms.
